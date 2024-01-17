@@ -33,9 +33,14 @@ order: 4
   - HTML
   - CSS
   - JavaScript
-
-- **Machine Learning**
 - **DevOps**
+  - CI/CD pipeline : Jenkins
+  - Container Management : Docker, Kubernetes
+  - Configuration Management : Ansible
+  - Infrastructure as Code (IaC) : Terraform
+  - Build Automation: Maven
+  - Code Quality and Analysis: SonarQube
+- **Machine Learning**
 - **Postman API**
 - **Data Structures and Algorithms (DSA)**
 
