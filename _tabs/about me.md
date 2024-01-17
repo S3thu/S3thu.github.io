@@ -14,7 +14,7 @@ order: 4
 
 
 
-- 🌱 I’m currently learning **COMPUTER SCIENCE IN SPECIALIZATION WITH AI/ML** ,I'm on the lookout for an opportunity that'll let me merge together my passion and kickstart a career in AI/ML Engineer. I enjoy the challenge of working with different types of people and coming up with solutions to difficult problems. It helps that I have a knack for staying calm during a strom!
+- 🌱 Amadeus SDE Intern  \|  CSE-AIML Engineer (SRM'24)  \|  Open to Open Source! 🌐 Let's collaborate on exciting projects.
 
 - 📫 How to reach me **sethusarapu93@gmail.com**
 
@@ -28,7 +28,7 @@ order: 4
   - SQL
 - **Version Control:**
   - GitHub
-  - AWS
+  - Amazon Web Services
 - **Web Development:**
   - HTML
   - CSS
